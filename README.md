@@ -69,7 +69,8 @@ Apassionate about backend security logic, Python automation, Linux, and network 
   <tr style="border: none;">
     <td style="border: none;">
       <a href="https://github.com/stats-organization/github-stats-extended">
-        <img src="https://github-stats-extended.vercel.app/api?username=Liz4rdino&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&show_icons=true" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Liz4rdino&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&show_icons=true" 
+            ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz4rdino&show_icons=true&cache_seconds=1800)/>
       </a>
     </td>
     <td style="border: none;">
@@ -87,4 +88,4 @@ Apassionate about backend security logic, Python automation, Linux, and network 
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz4rdino&show_icons=true&cache_seconds=1800)
+
