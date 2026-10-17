@@ -51,7 +51,7 @@ Apassionate about backend security logic, Python automation, Linux, and network 
 <details>
 <summary><b>🛠️ Technical Stack & Tools </b></summary>
 
-- **Languages:** Python, Bash, SQL, PHP
+- **Languages:** Python, SQL, PHP
 - **Security & Tools:** Log Parsing, Hash Verification, Nmap, Hydra, Fail2ban, AIDE, iptables
 - **Networking:** Cisco Packet Tracer, IPsec VPNs, WPA2/WPA3 Enterprise Protocols
 - **OS & Environment:** CachyOS / Arch Linux, Kali Linux, Debian, Docker
