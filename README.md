@@ -87,3 +87,4 @@ Apassionate about backend security logic, Python automation, Linux, and network 
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz4rdino&show_icons=true&cache_seconds=1800)
