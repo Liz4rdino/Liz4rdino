@@ -1,4 +1,4 @@
-## Hi there 🦎
+## Hello there 🦎
 
 **Cyber Defense Student & Security Developer**  
 Apassionate about backend security logic, Python automation, Linux, and network infrastructure.
@@ -10,8 +10,7 @@ Apassionate about backend security logic, Python automation, Linux, and network 
 - 🎓 Studying **Cyber Defense** (Undergraduate).
 - 🛠️ Focusing on **Python**, **FastAPI**, **Docker**, **PostgreSQL**, and **Linux Systems**.
 - 📚​ Currently Studying **Javascript** & **Typescript**
-- 🌐 Proficient in **Portuguese (Fluent)** & **English (B2 Level)**.
-
+- 🌐 Proficient in **Portuguese (Fluent)** & **English (B2 Level)**.     
 ---
 
 <details>
