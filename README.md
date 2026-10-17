@@ -9,7 +9,8 @@ Apassionate about backend security logic, Python automation, Linux, and network 
 
 - 🎓 Studying **Cyber Defense** (Undergraduate).
 - 🛠️ Focusing on **Python**, **FastAPI**, **Docker**, **PostgreSQL**, and **Linux Systems**.
-- 🌐 Proficient in **English (B2 Level)**.
+- 📚​ Currently Studying **Javascript** & **Typescript**
+- 🌐 Proficient in **Portuguese (Fluent)** & **English (B2 Level)**.
 
 ---
 
