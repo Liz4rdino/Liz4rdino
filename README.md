@@ -63,7 +63,6 @@ Apassionate about backend security logic, Python automation, Linux, and network 
 - 🏅 **Cisco Certified Network Technician** — Cisco Networking Academy
 - 🐍 **Python Essentials 1** — Cisco Networking Academy
 </details>
-<br>
 
 ### 📫 Let's Connect
 
