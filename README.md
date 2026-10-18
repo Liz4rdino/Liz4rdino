@@ -65,22 +65,6 @@ Apassionate about backend security logic, Python automation, Linux, and network 
 </details>
 <br>
 
-<table border="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <a href="https://github.com/stats-organization/github-stats-extended">
-        <img src="https://github-stats-extended.vercel.app/api?username=Liz4rdino&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&show_icons=true" 
-            ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz4rdino&show_icons=true&cache_seconds=1800)/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://github.com/stats-organization/github-stats-extended">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Liz4rdino&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&layout=compact" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-barrio-cruz)
